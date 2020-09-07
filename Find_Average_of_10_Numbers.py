@@ -15,4 +15,4 @@ while (limit>0):
 avg=sum/10                    
 
 #This is the final output
-print("The Average is %d"%avg)
+print("The Average is %d"%avg
