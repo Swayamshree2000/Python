@@ -2,10 +2,17 @@
 sum=0
 limit=10
 no=1
+
 while (limit>0):
-    userinput=int(input("Enter no %d: "%no))               #Here user will input the numbers for 10 times
-    sum=sum+userinput                                      #Algorithm line 7,8,9,10
+
+#Here user will input the numbers for 10 times
+    userinput=int(input("Enter no %d: "%no))
+
+#Algorithm line 10,11,12,13,14
+    sum=sum+userinput
     limit-=1
     no+=1
-avg=sum/10                                                  
-print("The Average is %d"%avg)                              #This is the final output
+avg=sum/10                    
+
+#This is the final output
+print("The Average is %d"%avg)
