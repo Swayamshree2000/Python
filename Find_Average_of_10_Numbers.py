@@ -14,5 +14,5 @@ while (limit>0):
     no+=1
 avg=sum/10                    
 
-#This is the final output
+#This is the final output.
 print("The Average is %d"%avg)
