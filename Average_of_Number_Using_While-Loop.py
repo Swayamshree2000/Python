@@ -5,3 +5,12 @@ limit=10
 for i in range(limit):
     print(limit)
     limit-=1
+=======
+no=1
+while (limit>0):
+    userinput=int(input("Enter no %d: "%no))
+    sum=sum+userinput
+    limit-=1
+    no+=1
+avg=sum/10
+print("The Average is %d"%avg)
