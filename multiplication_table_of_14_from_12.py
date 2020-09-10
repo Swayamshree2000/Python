@@ -18,4 +18,6 @@ for i in table_12:
     table_13.append(i+a)
     a+=2
     multiply+=1
+
+#Final table of 13, generated from table of 12
 print(table_13)
