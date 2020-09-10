@@ -2,6 +2,8 @@
 
 #12's Table
 table_12=[12,24,36,48,60,72,84,96,108,120]
+
+#13's blank Table
 table_13=[]
 
 #variable for 14's table
