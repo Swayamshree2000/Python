@@ -13,7 +13,6 @@ a=2
 
 #Algorith using FOR-LOOP
 for i in table_12:
-    #print("%d X %d = %d"%(start,multiply,(i+a)))
     table_13.append(i+a)
     a+=2
     multiply+=1
