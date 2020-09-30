@@ -1,4 +1,4 @@
-#Print multiplication table of 14 from a list in which multiplication table of 12 is stored. (using for loop)
+#Print multiplication table of 14 from a list in which multiplication table of 12 is stored.(using for loop)
 
 #12's Table
 table_12=[12,24,36,48,60,72,84,96,108,120]
